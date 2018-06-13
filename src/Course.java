@@ -26,5 +26,3 @@ public class Course {
   public void setSyllabus(String syllabus){}
 
 }
-
-ֹ
