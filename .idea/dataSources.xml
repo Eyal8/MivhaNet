@@ -10,5 +10,14 @@
         <property name="enable_load_extension" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="jdbc:sqlite:D:/TOHAR REESHON ;D/Semester Vav/ניתוח ועיצוב מונחה עצמים/עבודות/mivhanet_db.db [2]" uuid="8fb84d7b-74d6-4ef6-99ed-215e4eb5c598">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:/TOHAR REESHON ;D/Semester Vav/ניתוח ועיצוב מונחה עצמים/עבודות/mivhanet_db.db</jdbc-url>
+      <driver-properties>
+        <property name="enable_load_extension" value="true" />
+      </driver-properties>
+    </data-source>
   </component>
 </project>
